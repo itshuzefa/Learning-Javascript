@@ -36,39 +36,28 @@ console.log(typeof num2);*/
 
 //***********************************Operations*****************************************
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+console.log(2+8);
+console.log(10-1);
+console.log(65/5);
+console.log(12%2);
+console.log(1**10);
 
 
 //***********************************************Pre/Post Increament/Decreament**********************************
 //Post Increament
-
-
+let num4 = 100;
+console.log(num4++);
+console.log(num4);
 
 //Pre Increament
-
-
+let num3 = 50;
+console.log(++num3);
 
 //Post Decreament
-
-
+let num = 1100;
+console.log(num--);
+console.log(num);
 
 //Pre Decreament
+let num2 = 45;
+console.log(--num2);
