@@ -33,3 +33,42 @@ console.log(typeof num2);*/
 //let num2 = number (num);
 //console.log(typeof num2);
 //String to Null
+
+//***********************************Operations*****************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//***********************************************Pre/Post Increament/Decreament**********************************
+//Post Increament
+
+
+
+//Pre Increament
+
+
+
+//Post Decreament
+
+
+
+//Pre Decreament
